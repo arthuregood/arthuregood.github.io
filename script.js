@@ -8,8 +8,8 @@ document.addEventListener('DOMContentLoaded', function() {
     const nosDiv = document.querySelector('.nos');
 
     const profiles = [
-        { name: 'Boneco Branco da Acad', imgSrc: 'perfil1.jpg', description: 'Sou branco e bombado, o que mais pedir?' },
-        { name: 'Neeko', imgSrc: 'perfil2.jpg', description: 'Sou uma figura LGBT do lol. "Pra sobreviver preciso me misturar."' },
+        { name: 'Boneco Branco da Acad', imgSrc: 'perfil1.png', description: 'Branco e bombado, o que mais?' },
+        { name: 'Neeko', imgSrc: 'perfil2.jpg', description: 'LGBT e do lol. "Pra sobreviver preciso me misturar."' },
         { name: 'Arthur Eduardo Good', imgSrc: 'perfil3.png', description: 'Sou um nerdinho programador em busca de uma baianinha ruiva de 1.77, acha que combina? 🙏🌹' },
     ];
 
