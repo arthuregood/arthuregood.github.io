@@ -10,6 +10,8 @@ document.addEventListener('DOMContentLoaded', function() {
     const profiles = [
         { name: 'Boneco Branco da Acad', imgSrc: 'perfil1.png', description: 'Branco e bombado, o que mais?' },
         { name: 'Neeko', imgSrc: 'perfil2.jpg', description: 'LGBT e do lol. "Pra sobreviver preciso me misturar."' },
+        { name: 'Cavalo do Stardew Valley de Chapeuzinho', imgSrc: 'perfil4.jpg', description: 'Apenas um Cavalo do Stardew Valley de Chapeuzinho' },
+        { name: 'Kalista de Guinsoo', imgSrc: 'perfil5.jpg', description: 'Ta Stackada' },
         { name: 'Arthur Eduardo Good', imgSrc: 'perfil3.png', description: 'Sou um nerdinho programador em busca de uma baianinha ruiva de 1.77, acha que combina? 🙏🌹' },
     ];
 
