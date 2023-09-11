@@ -71,7 +71,7 @@ body {
 }
 
 .left-arrow, .right-arrow {
-    font-size: 30px;
+    font-size: 50px;
     cursor: pointer;
     color: #ff5e62;
 }
@@ -129,11 +129,27 @@ body {
     grid-column: span 3;
 }   
 
+.arrows {
+    display: none;
+}
+
 @media screen and (max-width: 650px){
     .grid{
         display: block;
     }
     .tile{
         margin-bottom: 1rem;
+    }
+    .container {
+        flex-direction: column;
+    }
+    .arrows {
+        display: flex;
+    }
+    .right-arrow {
+        font-size: 55px;
+    }
+    .pc {
+        display: none;
     }
 }
